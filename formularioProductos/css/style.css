@@ -1,0 +1,19 @@
+.producto-card__picture {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}/*# sourceMappingURL=style.css.map */
+
+body {
+  background-image: url('https://p4.wallpaperbetter.com/wallpaper/1009/536/63/dumbbells-fitness-gym-wallpaper-preview.jpg'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1 {
+  color:white;
+}
+h2 {
+  color:white;
+}
